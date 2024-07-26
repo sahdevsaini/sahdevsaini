@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png" alt="Banner">
-</div>
-
-<div align="center">
-  <img src="https://image.shutterstock.com/image-vector/data-science-infographic-data-analysis-260nw-1119018023.jpg" alt="Data Science" width="600">
+  <img src="https://www.canva.com/design/DAGBpCRr4q0/8_9w4_lBhih23GKdqerpnA/view?utm_content=DAGBpCRr4q0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Data Science Banner" width="600">
 </div>
 
 <p align="center">
