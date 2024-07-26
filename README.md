@@ -5,6 +5,10 @@
   <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png" alt="Banner">
 </div>
 
+<div align="center">
+  <img src="https://image.shutterstock.com/image-vector/data-science-infographic-data-analysis-260nw-1119018023.jpg" alt="Data Science" width="600">
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahdevsaini&show_icons=true&locale=en" alt="sahdevsaini" />
 </p>
