@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <div align="center">
-  <img src="https://github.com/sahdevsaini/Data-Set/raw/main/Artifical%20Intelligence.png" alt="Data Science Banner" width="600">
+  <img src="https://github.com/sahdevsaini/Data-Set/raw/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.jpg" alt="Data Science Banner" width="600">
 </div>
 
 <p align="center">
