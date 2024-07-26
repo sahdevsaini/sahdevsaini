@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sahdev Saini</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png" alt="Banner">
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahdevsaini&show_icons=true&locale=en" alt="sahdevsaini" />
 </p>
 
 - 🌱 I’m currently learning **Advanced Machine Learning Techniques and Deep Learning**
 - 💬 Ask me about **Data Science, Machine Learning, and Python**
-- 📫 How to reach me **sahdevsaini0104@gmail.com**
-- ⚡ Fun fact **I love to solve complex problems and uncover hidden patterns in data**
+- 📫 How to reach me: **sahdevsaini0104@gmail.com**
+- ⚡ Fun fact: **I love to solve complex problems and uncover hidden patterns in data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahdev-saini-m-e-b-tech-139285187" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahdev-saini-m-e-b-tech-139285187" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/@sahdevsaini0104" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahdevsaini0104" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/sahdev-saini-m-e-b-tech-139285187" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahdev-saini-m-e-b-tech-139285187" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@sahdevsaini0104" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahdevsaini0104" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -89,4 +93,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahdevsaini&show_icons=true&locale=en&layout=compact" alt="sahdevsaini" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahdevsaini&" alt="sahdevsaini" />
+</p>
+
+<h3 align="left">Top Contributed Repos:</h3>
+<p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=sahdevsaini&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
