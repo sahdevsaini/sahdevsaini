@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAGBpCRr4q0/8_9w4_lBhih23GKdqerpnA/view?utm_content=DAGBpCRr4q0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Data Science Banner" width="600">
+  <img src="https://github.com/sahdevsaini/Data-Set/raw/main/Artifical%20Intelligence.png" alt="Data Science Banner" width="600">
 </div>
 
 <p align="center">
@@ -101,5 +101,5 @@
 
 <h3 align="left">Top Contributed Repos:</h3>
 <p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=sahdevsaini&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=sahdevsaini&limit=5&theme=flat&combine_all_yearly_contributions" alt="Top Repos"/>
 </p>
