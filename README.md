@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <div align="center">
-  <img src="https://github.com/sahdevsaini/Data-Set/raw/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.jpg" alt="Data Science Banner" width="600">
+  <img src="https://github.com/sahdevsaini/Data-Set/raw/main/Artifical%20Intelligence.png" alt="Data Science Banner" width="600">
 </div>
 
 <p align="center">
@@ -102,12 +102,4 @@
 <h3 align="left">Top Contributed Repos:</h3>
 <p>
   <img src="https://github-contributor-stats.vercel.app/api?username=sahdevsaini&limit=5&theme=flat&combine_all_yearly_contributions" alt="Top Repos"/>
-  <h3 align="left">Top Contributed Repos:</h3>
-<ul>
-  <li><a href="https://github.com/sahdevsaini/repo1">Repo 1</a> - Description of Repo 1</li>
-  <li><a href="https://github.com/sahdevsaini/repo2">Repo 2</a> - Description of Repo 2</li>
-  <li><a href="https://github.com/sahdevsaini/repo3">Repo 3</a> - Description of Repo 3</li>
-  <li><a href="https://github.com/sahdevsaini/repo4">Repo 4</a> - Description of Repo 4</li>
-  <li><a href="https://github.com/sahdevsaini/repo5">Repo 5</a> - Description of Repo 5</li>
-</ul>
 </p>
